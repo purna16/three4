@@ -47,14 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] mx-auto'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Next.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems.
+        As a passionate cloud strategist, I am dedicated to building and deploying
+        scalable and reliable cloud infrastructure. With experience in technologies
+        like Docker, Terraform, Jenkins, Kubernetes, and Maven, I have developed a 
+        well-rounded skill set in cloud and automation tools.
       </motion.p>
       <div className="font-bold text-2xl flex justify-center">
-      <a href="https://ipfs.io/ipfs/QmbwGMYrckUzTwcP8bTxRMrLqxqaUATPs7xUqsAWacFEUM?filename=CV_Utkarsh%20Choudhary.pdf">Click here to check out my Résumé!</a>
+      <a href="https://drive.google.com/file/d/1TRtuhX1xltUnnJoyp2XIHNJLOHtw86C1/view">Click here to check out my Résumé!</a>
       </div>
       
       <div className='mt-20 flex flex-wrap gap-10 flex justify-center'>

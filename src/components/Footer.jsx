@@ -8,18 +8,21 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col items-center">
           <p className="text-center text-white">
-            Welcome to our portfolio website! I, Utkarsh, an adept web developer,
-            am delighted to present our collaborative prowess. Joined by Purna Siva Sai,
-            whose astute knowledge of Kubernetes proved invaluable, we have harnessed our expertise
-            to construct an impressive JavaScript-based portfolio site.
-            My deftness in JavaScript is evident in the visually alluring and functionally impeccable website,
-            engendering a superlative user experience. Seamless navigation and interactive elements synergistically
-            weave an engaging tapestry. Purna's mastery of Kubernetes facilitated deployment on a scalable container
-            orchestration platform, adeptly leveraging GitLab's CI/CD pipeline for automated scaling, thus ensuring
-            unwavering performance amidst surges in traffic. Embracing perpetual growth, I ardently pursue emerging
-            technologies to deliver pioneering solutions aligned with evolving industry exigencies.
-            Delve into our projects, including the dynamic portfolio website crafted by me and deployed via
-            Kubernetes by Purna, and envision how our combined prowess can enrich your forthcoming endeavors.
+          Welcome to my portfolio website! I am Purna Siva Sai, a dedicated professional in the field of DevOps.
+          Together with Utkarsh, we have built a dynamic and visually appealing portfolio website using JavaScript. I took an
+          active role in collaborating with Utkarsh, offering my expertise and contributing to various aspects of the project.
+          One of my key contributions to the website was optimizing its functionality. I focused on enhancing the user experience 
+          by implementing efficient and seamless navigation throughout the site. Leveraging my knowledge of JavaScript, I ensured 
+          that the website delivered a smooth and interactive browsing experience.Furthermore, I played a vital role in deploying
+          the portfolio website on Kubernetes, a scalable container orchestration platform. By utilizing GitLab's CI/CD pipeline, 
+          I was able to automate the deployment process, enabling the website to auto-scale and handle increased traffic effectively. 
+          This robust infrastructure ensures that the website remains highly available and responsive even during periods of high load.
+          In addition to my technical skills, I possess a strong attention to detail and a passion for delivering excellence. I take 
+          pride in my ability to adapt and learn quickly, which allows me to stay up-to-date with the latest industry trends and technologies.
+          I am constantly seeking opportunities to expand my knowledge and improve my skills, ensuring that I can provide the best possible 
+          solutions for my clients or employers.Thank you for visiting my portfolio website. Take a moment to explore the projects I have 
+          worked on, including the dynamic portfolio website developed with JavaScript and deployed using Kubernetes. I look forward to 
+          connecting with you and discussing how my skills and expertise can contribute to your next project or initiative.
             <a href="https://www.youtube.com/@javascriptmastery"> Credit: Adrian -JavaScript Mastery</a>
           </p>
         </div>
@@ -28,21 +31,21 @@ const Footer = () => {
             <div className="flex items-center mb-4">
               <FaHome className="text-white mr-2" size={20} />
               <div>
-                <p className="text-white">Pennsylvania State University, University Park</p>
-                <p className="text-white">University Park, PA 16802.</p>
+                <p className="text-white">intern at IIT, Bombay</p>
+                <p className="text-white">Powai, 400076.</p>
               </div>
             </div>
             <div className="flex items-center">
               <FaMailBulk className="text-white mr-2" size={20} />
-              <h4 className="text-white">ufc5009@psu.edu</h4>
+              <h4 className="text-white">purnanaidu567@gmail.com</h4>
             </div>
             <div className="flex items-center">
               <FaPhone className="text-white mr-2" size={20} />
-              <h4 className="text-white">+1(484)-797-8693</h4>
+              <h4 className="text-white">+91 824-777-3535</h4>
             </div>
             <div className="flex items-center">
               <DiGithubBadge className="text-white mr-2" size={20} />
-              <h4 className="text-white">github.com/UDogg</h4>
+              <h4 className="text-white">github.com/purna16</h4>
             </div>
           </div>
         </div>
