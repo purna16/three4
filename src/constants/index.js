@@ -40,15 +40,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Kubernetes Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Docker",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Python",
     icon: backend,
   },
 ];
@@ -108,7 +108,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2023 - Present",
     points: [
-      "Create a CI/CD pipeline for a Java application and deploy it on Kubernetes.",
+      "Created a CI/CD pipeline for a Java application and deploy it on Kubernetes.",
       "Perform load testing on the deployed application using JMeter.",
       "Configure RBAC to grant different users permissions for deploying in Kubernetes.",
       "Set up pipelines for Python and Node.js applications and deploy them.",
