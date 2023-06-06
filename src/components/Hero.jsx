@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I am a DevOps Engineer <br className='sm:block hidden' />
-            interested in Automating processes...
+            Interested in Automating processes...
           </p>
           <p>I'm Intern at IIT, Bombay</p>
         </div>

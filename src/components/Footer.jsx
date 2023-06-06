@@ -31,7 +31,7 @@ const Footer = () => {
             <div className="flex items-center mb-4">
               <FaHome className="text-white mr-2" size={20} />
               <div>
-                <p className="text-white">intern at IIT, Bombay</p>
+                <p className="text-white">Intern at IIT, Bombay</p>
                 <p className="text-white">Powai, 400076.</p>
               </div>
             </div>
